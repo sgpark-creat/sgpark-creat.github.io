@@ -19,3 +19,6 @@ Upload a CV PDF separately and enter its URL/path in the editor. Google Scholar 
 ## Teaching & Advising
 
 The separate `teaching.html` page contains seven teaching and advising appointments (2020–2026). Edit them in `/admin/` under **Teaching & Advising**. `leadership.html` is retained separately for leadership and community engagement.
+
+## Photo galleries
+The Research page includes all five supplied photos in an automatic, pausable slideshow. The Presentations page includes the three academic/conference-related images. Images live under assets/. The slideshow stops while hovered or keyboard-focused and honors reduced-motion preferences. All original content and the profile picture remain unchanged.
